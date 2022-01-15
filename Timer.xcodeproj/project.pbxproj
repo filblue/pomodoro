@@ -2051,7 +2051,7 @@
 				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					69AE95E2133B4705004DC14D = {
-						DevelopmentTeam = G3F3JRBPDC;
+						DevelopmentTeam = H6VMT9LZHA;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.Mac = {
 								enabled = 0;
@@ -2802,7 +2802,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = G3F3JRBPDC;
+				DEVELOPMENT_TEAM = H6VMT9LZHA;
 				FRAMEWORK_SEARCH_PATHS = (
 					"./**",
 					/Users/marta/Projects/ObjectiveC/pomodoro/externalFw,
@@ -2836,7 +2836,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = G3F3JRBPDC;
+				DEVELOPMENT_TEAM = H6VMT9LZHA;
 				FRAMEWORK_SEARCH_PATHS = (
 					"./**",
 					/Users/marta/Projects/ObjectiveC/pomodoro/externalFw,
